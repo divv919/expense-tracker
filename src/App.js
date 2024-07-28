@@ -40,6 +40,7 @@ function App() {
         </div>
         <div className="right">
           <ExpenseChart expenses={expenses} refreshCount={refreshCount}/>
+        {/* TODO: Add Bar chart here */}
         </div>
       </div>
     </div>
